@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31521.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileDashboard", "AgileDashboard\AgileDashboard.csproj", "{729CF7E5-D837-4B04-9806-6C59CBF2BC15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileDashboard_aspNet6", "AgileDashboard\AgileDashboard_aspNet6.csproj", "{729CF7E5-D837-4B04-9806-6C59CBF2BC15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
